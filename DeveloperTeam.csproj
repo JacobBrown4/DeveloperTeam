@@ -43,8 +43,8 @@
   <ItemGroup>
     <Compile Include="Employees\Team.cs" />
     <Compile Include="Employees\Developer.cs" />
-    <Compile Include="Repository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

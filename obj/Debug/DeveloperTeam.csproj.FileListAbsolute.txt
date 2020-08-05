@@ -4,3 +4,9 @@ C:\Users\jacob\source\repos\Challenges\DeveloperTeam\obj\Debug\DeveloperTeam.csp
 C:\Users\jacob\source\repos\Challenges\DeveloperTeam\obj\Debug\DeveloperTeam.csproj.CoreCompileInputs.cache
 C:\Users\jacob\source\repos\Challenges\DeveloperTeam\obj\Debug\DeveloperTeam.dll
 C:\Users\jacob\source\repos\Challenges\DeveloperTeam\obj\Debug\DeveloperTeam.pdb
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\DeveloperTeam\obj\Debug\DeveloperTeam.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\DeveloperTeam\obj\Debug\DeveloperTeam.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\DeveloperTeam\obj\Debug\DeveloperTeam.dll
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\DeveloperTeam\obj\Debug\DeveloperTeam.pdb
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\DeveloperTeam\bin\Debug\DeveloperTeam.dll
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\DeveloperTeam\bin\Debug\DeveloperTeam.pdb
