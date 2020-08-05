@@ -1,0 +1,6 @@
+C:\Users\jacob\source\repos\Challenges\DeveloperTeam\bin\Debug\DeveloperTeam.dll
+C:\Users\jacob\source\repos\Challenges\DeveloperTeam\bin\Debug\DeveloperTeam.pdb
+C:\Users\jacob\source\repos\Challenges\DeveloperTeam\obj\Debug\DeveloperTeam.csprojAssemblyReference.cache
+C:\Users\jacob\source\repos\Challenges\DeveloperTeam\obj\Debug\DeveloperTeam.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\Challenges\DeveloperTeam\obj\Debug\DeveloperTeam.dll
+C:\Users\jacob\source\repos\Challenges\DeveloperTeam\obj\Debug\DeveloperTeam.pdb
